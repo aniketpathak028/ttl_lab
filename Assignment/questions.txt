@@ -1,0 +1,7 @@
+# WAP to find the sum of all items in a list
+# Find largesy no. from the list.
+# WAP to chech whether list is empty or not then 
+# Copy entire stirng from one list to other list
+# WAP a function that takes two lists and returns true if they have a atleast 2 common members
+# WAP to generate and print a list of 1st and last 5 elements where values are square of numbers 
+  between 1 and 30
